@@ -1,7 +1,7 @@
 # .ipynb_checkpoints/
 
-# Files 
+# ignore text files
 *.txt
 
 # Folders
-otherfiles/
+# otherfiles/
